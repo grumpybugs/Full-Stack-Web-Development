@@ -1,0 +1,11 @@
+h1{
+  color: purple;
+}.game{
+  align-items: center;
+}
+body{
+  background-position: center;
+  background-color: grey;
+  font-family: cursive;
+
+}
